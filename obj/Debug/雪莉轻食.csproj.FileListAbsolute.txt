@@ -1,0 +1,643 @@
+F:\C# Visual\雪莉轻食\bin\Debug\WindowsFormsApplication8.exe.config
+F:\C# Visual\雪莉轻食\bin\Debug\WindowsFormsApplication8.exe.manifest
+F:\C# Visual\雪莉轻食\bin\Debug\WindowsFormsApplication8.application
+F:\C# Visual\雪莉轻食\bin\Debug\WindowsFormsApplication8.exe
+F:\C# Visual\雪莉轻食\bin\Debug\WindowsFormsApplication8.pdb
+F:\C# Visual\雪莉轻食\bin\Debug\Interop.WMPLib.dll
+F:\C# Visual\雪莉轻食\bin\Debug\AxInterop.WMPLib.dll
+F:\C# Visual\雪莉轻食\obj\Debug\Interop.WMPLib.dll
+F:\C# Visual\雪莉轻食\obj\Debug\AxInterop.WMPLib.dll
+F:\C# Visual\雪莉轻食\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Form1.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Form6.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Form7.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.PaiWanChen.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Quren.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Qurpaisong.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Gerenzhongx.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Xiugaics.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.GWC.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.GWE.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.quereng.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.xiangqincs.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.didanguanli.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.donghua.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Form2.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Form3.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Form4.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Form5.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.zhuimima.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.XQ.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.yonghu.resources
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+F:\C# Visual\雪莉轻食\obj\Debug\雪莉轻食.csproj.GenerateResource.Cache
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.exe.manifest
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.application
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.exe
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.pdb
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+G:\C# Visual\雪莉轻食\bin\Debug\WindowsFormsApplication8.exe.config
+G:\C# Visual\雪莉轻食\obj\Debug\Interop.WMPLib.dll
+G:\C# Visual\雪莉轻食\obj\Debug\AxInterop.WMPLib.dll
+G:\C# Visual\雪莉轻食\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+G:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.exe
+G:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.pdb
+F:\C# Visual\雪莉轻食\obj\Debug\雪莉轻食.csprojResolveAssemblyReference.cache
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.csprojAssemblyReference.cache
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\Interop.WMPLib.dll
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\AxInterop.WMPLib.dll
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.csproj.GenerateResource.cache
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.csproj.CoreCompileInputs.cache
+F:\C# Visual\实验田\小次郎点餐\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\C# Visual\实验田\小次郎点餐\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+F:\C# Visual\实验田\小次郎点餐\bin\Debug\Interop.WMPLib.dll
+F:\C# Visual\实验田\小次郎点餐\bin\Debug\AxInterop.WMPLib.dll
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.csproj.CopyComplete
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Form1.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Form6.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Form7.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.PaiWanChen.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Quren.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Qurpaisong.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Gerenzhongx.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Xiugaics.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.GWC.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.GWE.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.quereng.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.xiangqincs.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.didanguanli.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.donghua.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Form2.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Form3.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Form4.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Form5.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.zhuimima.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.XQ.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Main_Form.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.yonghu.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.TheLogin.resources
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.Properties.Resources.resources
+F:\C# Visual\实验田\小次郎点餐\bin\Debug\雪莉轻食.exe.config
+F:\C# Visual\实验田\小次郎点餐\bin\Debug\雪莉轻食.exe.manifest
+F:\C# Visual\实验田\小次郎点餐\bin\Debug\雪莉轻食.application
+F:\C# Visual\实验田\小次郎点餐\bin\Debug\雪莉轻食.exe
+F:\C# Visual\实验田\小次郎点餐\bin\Debug\雪莉轻食.pdb
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.exe.manifest
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.application
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.exe
+F:\C# Visual\实验田\小次郎点餐\obj\Debug\雪莉轻食.pdb
+F:\C# Visual\雪莉轻食-完整版\bin\Debug\雪莉轻食.exe.config
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\Interop.WMPLib.dll
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\AxInterop.WMPLib.dll
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.exe
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.pdb
+F:\C# Visual\雪莉轻食-完整版\bin\Debug\雪莉轻食.exe.manifest
+F:\C# Visual\雪莉轻食-完整版\bin\Debug\雪莉轻食.application
+F:\C# Visual\雪莉轻食-完整版\bin\Debug\雪莉轻食.exe
+F:\C# Visual\雪莉轻食-完整版\bin\Debug\雪莉轻食.pdb
+F:\C# Visual\雪莉轻食-完整版\bin\Debug\Interop.WMPLib.dll
+F:\C# Visual\雪莉轻食-完整版\bin\Debug\AxInterop.WMPLib.dll
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form1.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form6.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form7.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.PaiWanChen.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Quren.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Qurpaisong.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Gerenzhongx.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Xiugaics.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.GWC.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.GWE.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.quereng.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.xiangqincs.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.didanguanli.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.donghua.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form2.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form3.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form4.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form5.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.zhuimima.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.XQ.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Main_Form.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.TheLogin.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Properties.Resources.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.csproj.GenerateResource.Cache
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.exe.manifest
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.application
+G:\C# Visual\雪莉轻食-完整版\bin\Debug\雪莉轻食.exe.config
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\Interop.WMPLib.dll
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\AxInterop.WMPLib.dll
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.exe
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.pdb
+G:\C# Visual\雪莉轻食-完整版\bin\Debug\雪莉轻食.exe.manifest
+G:\C# Visual\雪莉轻食-完整版\bin\Debug\雪莉轻食.application
+G:\C# Visual\雪莉轻食-完整版\bin\Debug\雪莉轻食.exe
+G:\C# Visual\雪莉轻食-完整版\bin\Debug\雪莉轻食.pdb
+G:\C# Visual\雪莉轻食-完整版\bin\Debug\Interop.WMPLib.dll
+G:\C# Visual\雪莉轻食-完整版\bin\Debug\AxInterop.WMPLib.dll
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.csprojResolveAssemblyReference.cache
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form1.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form6.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form7.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.PaiWanChen.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Quren.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Qurpaisong.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Gerenzhongx.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Xiugaics.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.GWC.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.GWE.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.quereng.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.xiangqincs.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.didanguanli.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.donghua.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form2.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form3.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form4.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Form5.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.zhuimima.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.XQ.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Main_Form.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.TheLogin.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.Properties.Resources.resources
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.csproj.GenerateResource.Cache
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.exe.manifest
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.application
+G:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.UserMain.resources
+F:\C# Visual\雪莉轻食-完整版\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\C# Visual\雪莉轻食-完整版\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.csprojAssemblyReference.cache
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.UserMain.resources
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.csproj.CoreCompileInputs.cache
+F:\C# Visual\雪莉轻食-完整版\obj\Debug\雪莉轻食.csproj.CopyComplete
+F:\C# Visual\雪莉轻食 - 副本\bin\Debug\雪莉轻食.exe.config
+F:\C# Visual\雪莉轻食 - 副本\bin\Debug\雪莉轻食.exe.manifest
+F:\C# Visual\雪莉轻食 - 副本\bin\Debug\雪莉轻食.application
+F:\C# Visual\雪莉轻食 - 副本\bin\Debug\雪莉轻食.exe
+F:\C# Visual\雪莉轻食 - 副本\bin\Debug\雪莉轻食.pdb
+F:\C# Visual\雪莉轻食 - 副本\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\C# Visual\雪莉轻食 - 副本\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+F:\C# Visual\雪莉轻食 - 副本\bin\Debug\Interop.WMPLib.dll
+F:\C# Visual\雪莉轻食 - 副本\bin\Debug\AxInterop.WMPLib.dll
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.csprojAssemblyReference.cache
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\Interop.WMPLib.dll
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\AxInterop.WMPLib.dll
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Form1.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Form6.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Form7.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.PaiWanChen.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Quren.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Qurpaisong.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Gerenzhongx.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Xiugaics.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.GWC.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.GWE.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.quereng.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.xiangqincs.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.didanguanli.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.donghua.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Form2.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Form3.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Form4.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Form5.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.zhuimima.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.XQ.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Main_Form.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.UserMain.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.TheLogin.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.Properties.Resources.resources
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.csproj.GenerateResource.cache
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.csproj.CoreCompileInputs.cache
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.exe.manifest
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.application
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.csproj.CopyComplete
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.exe
+F:\C# Visual\雪莉轻食 - 副本\obj\Debug\雪莉轻食.pdb
+F:\C# Visual\雪莉轻食Web\bin\Debug\雪莉轻食.exe.config
+F:\C# Visual\雪莉轻食Web\bin\Debug\雪莉轻食.exe.manifest
+F:\C# Visual\雪莉轻食Web\bin\Debug\雪莉轻食.application
+F:\C# Visual\雪莉轻食Web\bin\Debug\雪莉轻食.exe
+F:\C# Visual\雪莉轻食Web\bin\Debug\雪莉轻食.pdb
+F:\C# Visual\雪莉轻食Web\bin\Debug\Interop.WMPLib.dll
+F:\C# Visual\雪莉轻食Web\bin\Debug\AxInterop.WMPLib.dll
+F:\C# Visual\雪莉轻食Web\obj\Debug\Interop.WMPLib.dll
+F:\C# Visual\雪莉轻食Web\obj\Debug\AxInterop.WMPLib.dll
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Form1.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Form6.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Form7.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.PaiWanChen.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Quren.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Qurpaisong.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Gerenzhongx.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Xiugaics.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.GWC.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.GWE.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.quereng.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.xiangqincs.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.didanguanli.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.donghua.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Form2.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Form3.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Form4.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Form5.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.zhuimima.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.XQ.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Main_Form.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.UserMain.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.TheLogin.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.Properties.Resources.resources
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.csproj.GenerateResource.Cache
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.exe.manifest
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.application
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.exe
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.pdb
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.csprojAssemblyReference.cache
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.csproj.CoreCompileInputs.cache
+F:\C# Visual\雪莉轻食Web\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\C# Visual\雪莉轻食Web\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+F:\C# Visual\雪莉轻食Web\obj\Debug\雪莉轻食.csproj.CopyComplete
+G:\C# Visual\雪莉轻食Web - 副本\bin\Debug\雪莉轻食.exe.config
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\Interop.WMPLib.dll
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\AxInterop.WMPLib.dll
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.exe
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.pdb
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Form1.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Form6.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Form7.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.PaiWanChen.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Quren.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Qurpaisong.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Gerenzhongx.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Xiugaics.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.GWC.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.GWE.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.quereng.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.xiangqincs.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.didanguanli.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.donghua.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Form2.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Form3.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Form4.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Form5.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.zhuimima.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.XQ.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Main_Form.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.UserMain.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.TheLogin.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.Properties.Resources.resources
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.csproj.GenerateResource.Cache
+G:\C# Visual\雪莉轻食Web - 副本\bin\Debug\雪莉轻食.exe.manifest
+G:\C# Visual\雪莉轻食Web - 副本\bin\Debug\雪莉轻食.application
+G:\C# Visual\雪莉轻食Web - 副本\bin\Debug\雪莉轻食.exe
+G:\C# Visual\雪莉轻食Web - 副本\bin\Debug\雪莉轻食.pdb
+G:\C# Visual\雪莉轻食Web - 副本\bin\Debug\Interop.WMPLib.dll
+G:\C# Visual\雪莉轻食Web - 副本\bin\Debug\AxInterop.WMPLib.dll
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.exe.manifest
+G:\C# Visual\雪莉轻食Web - 副本\obj\Debug\雪莉轻食.application
+F:\C# Visual\雪莉轻食local\bin\Debug\雪莉轻食.exe.config
+F:\C# Visual\雪莉轻食local\obj\Debug\Interop.WMPLib.dll
+F:\C# Visual\雪莉轻食local\obj\Debug\AxInterop.WMPLib.dll
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.exe
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.pdb
+F:\C# Visual\雪莉轻食local\bin\Debug\雪莉轻食.exe.manifest
+F:\C# Visual\雪莉轻食local\bin\Debug\雪莉轻食.application
+F:\C# Visual\雪莉轻食local\bin\Debug\雪莉轻食.exe
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.csprojResolveAssemblyReference.cache
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Form1.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Form6.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Form7.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.PaiWanChen.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Quren.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Qurpaisong.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Gerenzhongx.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Xiugaics.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.GWC.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.GWE.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.quereng.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.xiangqincs.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.didanguanli.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.donghua.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Form2.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Form3.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Form4.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Form5.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.zhuimima.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.XQ.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Main_Form.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.UserMain.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.TheLogin.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.Properties.Resources.resources
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.csproj.GenerateResource.Cache
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.exe.manifest
+F:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.application
+F:\C# Visual\雪莉轻食local\bin\Debug\雪莉轻食.pdb
+F:\C# Visual\雪莉轻食local\bin\Debug\Interop.WMPLib.dll
+F:\C# Visual\雪莉轻食local\bin\Debug\AxInterop.WMPLib.dll
+G:\C# Visual\雪莉轻食local\bin\Debug\雪莉轻食.exe.config
+G:\C# Visual\雪莉轻食local\obj\Debug\Interop.WMPLib.dll
+G:\C# Visual\雪莉轻食local\obj\Debug\AxInterop.WMPLib.dll
+G:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+G:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.exe
+G:\C# Visual\雪莉轻食local\obj\Debug\雪莉轻食.pdb
+G:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\雪莉轻食.exe.config
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\Interop.WMPLib.dll
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\AxInterop.WMPLib.dll
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form1.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form6.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form7.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.PaiWanChen.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Quren.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Qurpaisong.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Gerenzhongx.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Xiugaics.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.GWC.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.GWE.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.quereng.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.xiangqincs.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.didanguanli.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.donghua.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form2.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form3.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form4.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form5.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.zhuimima.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.XQ.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Main_Form.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.UserMain.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.TheLogin.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Properties.Resources.resources
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.csproj.GenerateResource.Cache
+G:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\雪莉轻食.exe.manifest
+G:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\雪莉轻食.application
+G:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\雪莉轻食.exe
+G:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\雪莉轻食.pdb
+G:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\Interop.WMPLib.dll
+G:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\AxInterop.WMPLib.dll
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.exe.manifest
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.application
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.exe
+G:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.pdb
+F:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\雪莉轻食.exe.config
+F:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\雪莉轻食.exe.manifest
+F:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\雪莉轻食.application
+F:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\雪莉轻食.exe
+F:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\雪莉轻食.pdb
+F:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+F:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\Interop.WMPLib.dll
+F:\卓越项目\雪莉轻食local\雪莉轻食local\bin\Debug\AxInterop.WMPLib.dll
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\Interop.WMPLib.dll
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\AxInterop.WMPLib.dll
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form1.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form6.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form7.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.PaiWanChen.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Quren.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Qurpaisong.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Gerenzhongx.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Xiugaics.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.GWC.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.GWE.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.quereng.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.xiangqincs.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.didanguanli.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.donghua.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form2.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form3.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form4.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Form5.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.zhuimima.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.XQ.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Main_Form.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.UserMain.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.TheLogin.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.Properties.Resources.resources
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.csproj.GenerateResource.cache
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.csproj.CoreCompileInputs.cache
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.exe.manifest
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.application
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.csproj.CopyComplete
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.exe
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.pdb
+F:\卓越项目\雪莉轻食local\雪莉轻食local\obj\Debug\雪莉轻食.csprojAssemblyReference.cache
+F:\卓越项目\雪莉轻食local\bin\Debug\雪莉轻食.exe.config
+F:\卓越项目\雪莉轻食local\bin\Debug\雪莉轻食.exe.manifest
+F:\卓越项目\雪莉轻食local\bin\Debug\雪莉轻食.application
+F:\卓越项目\雪莉轻食local\bin\Debug\雪莉轻食.exe
+F:\卓越项目\雪莉轻食local\bin\Debug\雪莉轻食.pdb
+F:\卓越项目\雪莉轻食local\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\卓越项目\雪莉轻食local\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+F:\卓越项目\雪莉轻食local\bin\Debug\Interop.WMPLib.dll
+F:\卓越项目\雪莉轻食local\bin\Debug\AxInterop.WMPLib.dll
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.csprojAssemblyReference.cache
+F:\卓越项目\雪莉轻食local\obj\Debug\Interop.WMPLib.dll
+F:\卓越项目\雪莉轻食local\obj\Debug\AxInterop.WMPLib.dll
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Form1.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Form6.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Form7.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.PaiWanChen.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Quren.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Qurpaisong.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Gerenzhongx.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Xiugaics.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.GWC.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.GWE.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.quereng.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.xiangqincs.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.didanguanli.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.donghua.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Form2.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Form3.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Form4.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Form5.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.zhuimima.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.XQ.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Main_Form.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.UserMain.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Properties.Resources.resources
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.csproj.GenerateResource.cache
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.csproj.CoreCompileInputs.cache
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.exe.manifest
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.application
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.csproj.CopyComplete
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.exe
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.pdb
+F:\卓越项目\雪莉轻食local\obj\Debug\雪莉轻食.Login.resources
+D:\卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.exe.config
+D:\卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.exe.manifest
+D:\卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.application
+D:\卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.exe
+D:\卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.pdb
+D:\卓越项目\雪莉轻食-答辩版\bin\Debug\Interop.WMPLib.dll
+D:\卓越项目\雪莉轻食-答辩版\bin\Debug\AxInterop.WMPLib.dll
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\Interop.WMPLib.dll
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\AxInterop.WMPLib.dll
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form1.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form6.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form7.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.PaiWanChen.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Quren.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Qurpaisong.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Gerenzhongx.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Xiugaics.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.GWC.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.GWE.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.quereng.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.xiangqincs.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.didanguanli.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.donghua.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form2.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form3.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form4.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form5.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.zhuimima.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.XQ.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Main_Form.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.UserMain.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Login.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Properties.Resources.resources
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.GenerateResource.cache
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.CoreCompileInputs.cache
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.exe.manifest
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.application
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.CopyComplete
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.exe
+D:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.pdb
+F:\卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.exe.config
+F:\卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.exe.manifest
+F:\卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.application
+F:\卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.exe
+F:\卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.pdb
+F:\卓越项目\雪莉轻食-答辩版\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\卓越项目\雪莉轻食-答辩版\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+F:\卓越项目\雪莉轻食-答辩版\bin\Debug\Interop.WMPLib.dll
+F:\卓越项目\雪莉轻食-答辩版\bin\Debug\AxInterop.WMPLib.dll
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csprojAssemblyReference.cache
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\Interop.WMPLib.dll
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\AxInterop.WMPLib.dll
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form1.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form6.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form7.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.PaiWanChen.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Quren.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Qurpaisong.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Gerenzhongx.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Xiugaics.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.GWC.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.GWE.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.quereng.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.xiangqincs.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.didanguanli.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.donghua.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form2.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form3.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form4.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form5.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.zhuimima.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.XQ.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Main_Form.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.UserMain.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Login.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Properties.Resources.resources
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.GenerateResource.cache
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.CoreCompileInputs.cache
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.exe.manifest
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.application
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.CopyComplete
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.exe
+F:\卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.pdb
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.exe.config
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\Interop.WMPLib.dll
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\AxInterop.WMPLib.dll
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.exe
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.pdb
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.exe.manifest
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.application
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.exe
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.pdb
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\Interop.WMPLib.dll
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\AxInterop.WMPLib.dll
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csprojResolveAssemblyReference.cache
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form1.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form6.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form7.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.PaiWanChen.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Quren.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Qurpaisong.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Gerenzhongx.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Xiugaics.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.GWC.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.GWE.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.quereng.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.xiangqincs.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.didanguanli.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.donghua.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form2.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form3.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form4.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form5.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.zhuimima.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.XQ.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Main_Form.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.UserMain.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Login.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Properties.Resources.resources
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.GenerateResource.Cache
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.exe.manifest
+G:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.application
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.exe.config
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.exe.manifest
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.application
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.exe
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\雪莉轻食.pdb
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\Interop.WMPLib.dll
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\bin\Debug\AxInterop.WMPLib.dll
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csprojAssemblyReference.cache
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\Interop.WMPLib.dll
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\AxInterop.WMPLib.dll
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.ResolveComReference.cache
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form1.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form6.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form7.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.PaiWanChen.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Quren.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Qurpaisong.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Gerenzhongx.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Xiugaics.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.GWC.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.GWE.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.quereng.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.xiangqincs.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.didanguanli.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.donghua.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form2.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form3.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form4.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Form5.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.zhuimima.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.XQ.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Main_Form.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.UserMain.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Login.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.Properties.Resources.resources
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.GenerateResource.cache
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.CoreCompileInputs.cache
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.exe.manifest
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.application
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.csproj.CopyComplete
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.exe
+F:\复习资料\大一下卓越项目\雪莉轻食-答辩版\obj\Debug\雪莉轻食.pdb

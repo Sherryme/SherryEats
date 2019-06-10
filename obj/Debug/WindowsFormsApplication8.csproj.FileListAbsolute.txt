@@ -1,0 +1,381 @@
+F:\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+F:\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+F:\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+F:\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+F:\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+F:\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+F:\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+E:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+E:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+E:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+E:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+E:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+E:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+E:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+E:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+H:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+H:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+H:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+H:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+H:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+H:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+H:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+H:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+H:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+H:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+E:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+E:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+E:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.yonghu.resources
+H:\winfrom\项目\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.yonghu.resources
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.yonghu.resources
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.zhuimima.resources
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form6.resources
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form7.resources
+D:\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.zhuimima.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.yonghu.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.zhuimima.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.yonghu.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.tianjia.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.tianjia.resources
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+J:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+J:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+J:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+H:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.donghua.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.donghua.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.donghua.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.tianjia.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.zhuimima.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.yonghu.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.didanguanli.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._1.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._2.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._3.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._4.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._5.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._6.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._7.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.xiangqincs.resources
+I:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Mei.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Mei.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.xiangqincs.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._1.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._2.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._3.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._4.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._5.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._6.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8._7.resources
+E:\winfrom\项目\Six 吴飞\项目\第二版\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.didanguanli.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.xiangqincs.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.didanguanli.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.donghua.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.zhuimima.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.yonghu.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.GWC.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.quereng.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.GWE.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Xiugaics.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.manifest
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.application
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe.manifest
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.application
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.XQ.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Gerenzhongx.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form7.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form6.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.PaiWanChen.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Quren.resources
+D:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Qurpaisong.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.manifest
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.application
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form6.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form7.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.PaiWanChen.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Quren.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Qurpaisong.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Gerenzhongx.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Xiugaics.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.GWC.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.GWE.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.quereng.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.xiangqincs.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.didanguanli.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.donghua.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.zhuimima.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.XQ.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.yonghu.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe.manifest
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.application
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\CSkin.xml
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.manifest
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.application
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\CSkin.xml
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Interop.WMPLib.dll
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form6.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form7.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.PaiWanChen.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Quren.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Qurpaisong.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Gerenzhongx.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Xiugaics.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.GWC.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.GWE.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.quereng.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.xiangqincs.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.didanguanli.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.donghua.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.zhuimima.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.XQ.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.yonghu.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe.manifest
+C:\Users\wu\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.application
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.manifest
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.application
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\CSkin.dll
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\CSkin.xml
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Interop.WMPLib.dll
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\AxInterop.WMPLib.dll
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form6.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form7.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.PaiWanChen.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Quren.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Qurpaisong.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Gerenzhongx.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Xiugaics.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.GWC.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.GWE.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.quereng.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.xiangqincs.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.didanguanli.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.donghua.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.zhuimima.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.XQ.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.yonghu.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe.manifest
+I:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.application
+G:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+G:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+G:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+G:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+G:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+G:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.manifest
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.application
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\CSkin.xml
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Interop.WMPLib.dll
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\AxInterop.WMPLib.dll
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form6.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form7.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.PaiWanChen.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Quren.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Qurpaisong.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Gerenzhongx.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Xiugaics.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.GWC.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.GWE.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.quereng.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.xiangqincs.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.didanguanli.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.donghua.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.zhuimima.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.XQ.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.yonghu.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe.manifest
+H:\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.application
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Interop.WMPLib.dll
+C:\Users\吴\Desktop\小次郎\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\AxInterop.WMPLib.dll
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\Interop.WMPLib.dll
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\AxInterop.WMPLib.dll
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.manifest
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.application
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Interop.WMPLib.dll
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\AxInterop.WMPLib.dll
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form6.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form7.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.PaiWanChen.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Quren.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Qurpaisong.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Gerenzhongx.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Xiugaics.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.GWC.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.GWE.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.quereng.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.xiangqincs.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.didanguanli.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.donghua.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.zhuimima.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.XQ.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Main_Form.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.yonghu.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.TheLogin.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe.manifest
+F:\2017源码审核\10\饿了么点餐系统\饿了么点餐系统\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.application
+F:\C# Visual\雪莉轻食\bin\Debug\WindowsFormsApplication8.exe.config
+F:\C# Visual\雪莉轻食\obj\Debug\Interop.WMPLib.dll
+F:\C# Visual\雪莉轻食\obj\Debug\AxInterop.WMPLib.dll
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.csproj.ResolveComReference.cache
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.exe
+F:\C# Visual\雪莉轻食\obj\Debug\WindowsFormsApplication8.pdb

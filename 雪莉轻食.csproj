@@ -1,0 +1,763 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{58BA46E7-9E3A-4707-A1E1-D4ED72901FF5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>雪莉轻食</RootNamespace>
+    <AssemblyName>雪莉轻食</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\卓越项目\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon_mini.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>543ECC4756E6014FD407DF4A25CAFF05E0E8BA57</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WindowsFormsApplication8_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>雪莉轻食.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSkin">
+      <HintPath>..\..\..\CSkin 16.1.14.2\CSkin 4.0\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBHelper.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="xcldcDataSet.cs">
+      <DependentUpon>xcldcDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="后台管理\Food delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="后台管理\Food delete.Designer.cs">
+      <DependentUpon>Food delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="后台管理\Food modify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="后台管理\Food modify.Designer.cs">
+      <DependentUpon>Food modify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="后台管理\PaiWanChen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="后台管理\PaiWanChen.Designer.cs">
+      <DependentUpon>PaiWanChen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="后台管理\Quren.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="后台管理\Quren.Designer.cs">
+      <DependentUpon>Quren.cs</DependentUpon>
+    </Compile>
+    <Compile Include="后台管理\Qurpaisong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="后台管理\Qurpaisong.Designer.cs">
+      <DependentUpon>Qurpaisong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户界面\MyProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户界面\MyProfile.Designer.cs">
+      <DependentUpon>MyProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户界面\Xiugaics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户界面\Xiugaics.Designer.cs">
+      <DependentUpon>Xiugaics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户界面\Shopping cart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户界面\Shopping cart.Designer.cs">
+      <DependentUpon>Shopping cart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户界面\Listing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户界面\Listing.Designer.cs">
+      <DependentUpon>Listing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户界面\quereng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户界面\quereng.Designer.cs">
+      <DependentUpon>quereng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xcldcDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xcldcDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="用户界面\Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户界面\Details.Designer.cs">
+      <DependentUpon>Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户界面\OrderManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户界面\OrderManage.Designer.cs">
+      <DependentUpon>OrderManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="启动动画\donghua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="启动动画\donghua.Designer.cs">
+      <DependentUpon>donghua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="忘记密码\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="忘记密码\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="忘记密码\Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="忘记密码\Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="注册\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="注册\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="后台管理\Food Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="后台管理\Food Add.Designer.cs">
+      <DependentUpon>Food Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="忘记密码\zhuimima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="忘记密码\zhuimima.Designer.cs">
+      <DependentUpon>zhuimima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户界面\Cancel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户界面\Cancel.Designer.cs">
+      <DependentUpon>Cancel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="后台管理\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="后台管理\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="用户界面\UserMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户界面\UserMain.Designer.cs">
+      <DependentUpon>UserMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="登录\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="登录\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="后台管理\Food delete.resx">
+      <DependentUpon>Food delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="后台管理\Food modify.resx">
+      <DependentUpon>Food modify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="后台管理\PaiWanChen.resx">
+      <DependentUpon>PaiWanChen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="后台管理\Quren.resx">
+      <DependentUpon>Quren.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="后台管理\Qurpaisong.resx">
+      <DependentUpon>Qurpaisong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户界面\MyProfile.resx">
+      <DependentUpon>MyProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户界面\Xiugaics.resx">
+      <DependentUpon>Xiugaics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户界面\Shopping cart.resx">
+      <DependentUpon>Shopping cart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户界面\Listing.resx">
+      <DependentUpon>Listing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户界面\quereng.resx">
+      <DependentUpon>quereng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户界面\Details.resx">
+      <DependentUpon>Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户界面\OrderManage.resx">
+      <DependentUpon>OrderManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="启动动画\donghua.resx">
+      <DependentUpon>donghua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="忘记密码\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="忘记密码\Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="注册\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="后台管理\Food Add.resx">
+      <DependentUpon>Food Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="忘记密码\zhuimima.resx">
+      <DependentUpon>zhuimima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户界面\Cancel.resx">
+      <DependentUpon>Cancel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="后台管理\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户界面\UserMain.resx">
+      <DependentUpon>UserMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登录\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="WindowsFormsApplication8_TemporaryKey.pfx" />
+    <None Include="xcldcDataSet.xsc">
+      <DependentUpon>xcldcDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="xcldcDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>xcldcDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xcldcDataSet.xss">
+      <DependentUpon>xcldcDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\无标题555555555.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\无标题5555555551.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empty.png" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb96098829433.jpg" />
+    <None Include="Resources\0d03644d76c3f510365be7a52a3a56564915213.jpg" />
+    <None Include="Resources\0335181e69680d9d34ad6df1bba31bad26735613.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf1534096023.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf15340960113.jpg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d41508353.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d415083413.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d415083313.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d415083213.jpeg" />
+    <None Include="Resources\无标题999999991.png" />
+    <None Include="Resources\无标题91.png" />
+    <None Include="Resources\无标题884242881.jpg" />
+    <None Include="Resources\无标题82.png" />
+    <None Include="Resources\无标题777772.png" />
+    <None Include="Resources\无标题777712.jpg" />
+    <None Include="Resources\无标题77773.jpg" />
+    <None Include="Resources\无标题772.png" />
+    <None Include="Resources\无标题72.png" />
+    <None Include="Resources\无标题362.jpg" />
+    <None Include="Resources\无标题1111111111112.png" />
+    <None Include="Resources\取消2.png" />
+    <None Include="Resources\加12.png" />
+    <None Include="Resources\加3.png" />
+    <None Include="Resources\购物车2.png" />
+    <None Include="Resources\fb1e49e49252ecb5c8bf86a310e99b9f225283.jpg" />
+    <None Include="Resources\ef8b4937fb51ed0a114ec2356d592bdb245763.jpg" />
+    <None Include="Resources\e892fadcf4d504509f058398c70806f32906373.jpg" />
+    <None Include="Resources\e8761011c85c4f662c6cf53168e596f8327683.jpg" />
+    <None Include="Resources\c199fdf5e2e381ede4257e2e0f6947e712737923.jpg" />
+    <None Include="Resources\c199fdf5e2e381ede4257e2e0f6947e712737913.jpg" />
+    <None Include="Resources\c199fdf5e2e381ede4257e2e0f6947e71273795.jpg" />
+    <None Include="Resources\a539c0968a9094cbd52ca8c7b17c143b430083.jpg" />
+    <None Include="Resources\a050b6465b7d528d3f5ee1a303ebb7a688173.jpeg" />
+    <None Include="Resources\97f79ac975cc1bd800ed40557e38617c491523.jpg" />
+    <None Include="Resources\9031b2fc9cc9d61864d3d8a94e8ff00e23736013.jpg" />
+    <None Include="Resources\9031b2fc9cc9d61864d3d8a94e8ff00e2373604.jpg" />
+    <None Include="Resources\900ef343c38ad5d5e3fd4c4f669b1fef46325323.jpg" />
+    <None Include="Resources\900ef343c38ad5d5e3fd4c4f669b1fef46325313.jpg" />
+    <None Include="Resources\900ef343c38ad5d5e3fd4c4f669b1fef4632535.jpg" />
+    <None Include="Resources\8e46f464c94f21f83d2a6ed0f73494543156003.jpg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c5015769633.jpg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c5015769623.jpg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c5015769613.jpg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c501576966.jpg" />
+    <None Include="Resources\77449b7b63cf3dd114e7b1994d1c63de1433613.jpg" />
+    <None Include="Resources\77449b7b63cf3dd114e7b1994d1c63de143364.jpg" />
+    <None Include="Resources\74cb35c8c3f20f33ce76573c82bde9e644461313.jpg" />
+    <None Include="Resources\74cb35c8c3f20f33ce76573c82bde9e64446134.jpg" />
+    <None Include="Resources\6d2bafb52d82a419d67c7280f818c70513107213.jpg" />
+    <None Include="Resources\6d2bafb52d82a419d67c7280f818c7051310724.jpg" />
+    <None Include="Resources\64dcd89f1f1181264fb69004a9cde0e93891213.jpg" />
+    <None Include="Resources\64dcd89f1f1181264fb69004a9cde0e9389124.jpg" />
+    <None Include="Resources\62c065e24df853f0a9a220cef671a4c92071363.jpg" />
+    <None Include="Resources\5758785daba6186ea12ee090d7d416692243243.jpg" />
+    <None Include="Resources\433c0678da345dd9183d3cfe3bad4f872170883.jpg" />
+    <None Include="Resources\42469d54214fe0e3351707755d5b3b71348163.jpg" />
+    <None Include="Resources\40473479debe847a2787ff14f85ae2bb286723.jpg" />
+    <None Include="Resources\3f795061e055a631afac2d201ce00bb7327683.jpg" />
+    <None Include="Resources\35ba8611ba9df97b861d93c1f457c8104618713.jpg" />
+    <None Include="Resources\30d1961e1532d4f14b32c5aad1418aa85532783.jpg" />
+    <None Include="Resources\2d8f79cf871577f1ea472a577a366bd83117353.jpg" />
+    <None Include="Resources\2ca981f6d6232a57de6de6ccc6c40f18526913.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e43585933.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e43585923.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e43585913.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e4358596.jpg" />
+    <None Include="Resources\253af7c4de437ef186c48e1d7cb933a938916713.jpg" />
+    <None Include="Resources\253af7c4de437ef186c48e1d7cb933a93891674.jpg" />
+    <None Include="Resources\20786620f4eb89e97279b1a3c630282d4260423.jpg" />
+    <None Include="Resources\1bb4c241db4a431233a43f0d53fadb1d389123.jpg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb96098829423.jpg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb96098829413.jpg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb9609882946.jpg" />
+    <None Include="Resources\0d03644d76c3f510365be7a52a3a5656491524.jpg" />
+    <None Include="Resources\0c788856d5f255b1d36b03cf390223f9450563.jpg" />
+    <None Include="Resources\0ac0be73419b1ba954a740b24c4469811447313.jpeg" />
+    <None Include="Resources\0ac0be73419b1ba954a740b24c446981144734.jpeg" />
+    <None Include="Resources\0a860fbacc8957c948a64f89e5f300941145113.jpeg" />
+    <None Include="Resources\0a860fbacc8957c948a64f89e5f30094114514.jpeg" />
+    <None Include="Resources\03d38b4a4a7afda48f9c65da0f0834cc327683.jpg" />
+    <None Include="Resources\0335181e69680d9d34ad6df1bba31bad2673564.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf1534096014.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf153409605.jpg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d41508344.jpeg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb96098829432.jpg" />
+    <None Include="Resources\0d03644d76c3f510365be7a52a3a56564915212.jpg" />
+    <None Include="Resources\0335181e69680d9d34ad6df1bba31bad26735612.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf1534096022.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf15340960112.jpg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d41508352.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d415083412.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d415083312.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d415083212.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d415083112.jpeg" />
+    <None Include="Resources\无标题81.png" />
+    <None Include="Resources\无标题777771.png" />
+    <None Include="Resources\无标题777711.jpg" />
+    <None Include="Resources\无标题77772.jpg" />
+    <None Include="Resources\无标题771.png" />
+    <None Include="Resources\无标题71.png" />
+    <None Include="Resources\无标题361.jpg" />
+    <None Include="Resources\无标题1111111111111.png" />
+    <None Include="Resources\取消1.png" />
+    <None Include="Resources\加11.png" />
+    <None Include="Resources\加2.png" />
+    <None Include="Resources\购物车1.png" />
+    <None Include="Resources\保存1.png" />
+    <None Include="Resources\winfo-icon-最小化1.png" />
+    <None Include="Resources\winfo-icon-关闭1.png" />
+    <None Include="Resources\StoreBar1.png" />
+    <None Include="Resources\search1.png" />
+    <None Include="Resources\min-white1.png" />
+    <None Include="Resources\icons_559f3531_11.png" />
+    <None Include="Resources\icon_sort21.png" />
+    <None Include="Resources\fb1e49e49252ecb5c8bf86a310e99b9f225282.jpg" />
+    <None Include="Resources\ef8b4937fb51ed0a114ec2356d592bdb245762.jpg" />
+    <None Include="Resources\e892fadcf4d504509f058398c70806f32906372.jpg" />
+    <None Include="Resources\e8761011c85c4f662c6cf53168e596f8327682.jpg" />
+    <None Include="Resources\Close-white2.png" />
+    <None Include="Resources\Close-Red1.png" />
+    <None Include="Resources\cart-icon21.png" />
+    <None Include="Resources\c199fdf5e2e381ede4257e2e0f6947e712737922.jpg" />
+    <None Include="Resources\c199fdf5e2e381ede4257e2e0f6947e712737912.jpg" />
+    <None Include="Resources\c199fdf5e2e381ede4257e2e0f6947e71273794.jpg" />
+    <None Include="Resources\banner12.jpg" />
+    <None Include="Resources\a539c0968a9094cbd52ca8c7b17c143b430082.jpg" />
+    <None Include="Resources\a050b6465b7d528d3f5ee1a303ebb7a688172.jpeg" />
+    <None Include="Resources\97f79ac975cc1bd800ed40557e38617c491522.jpg" />
+    <None Include="Resources\9031b2fc9cc9d61864d3d8a94e8ff00e23736012.jpg" />
+    <None Include="Resources\9031b2fc9cc9d61864d3d8a94e8ff00e2373603.jpg" />
+    <None Include="Resources\900ef343c38ad5d5e3fd4c4f669b1fef46325322.jpg" />
+    <None Include="Resources\900ef343c38ad5d5e3fd4c4f669b1fef46325312.jpg" />
+    <None Include="Resources\900ef343c38ad5d5e3fd4c4f669b1fef4632534.jpg" />
+    <None Include="Resources\8e46f464c94f21f83d2a6ed0f73494543156002.jpg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c5015769632.jpg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c5015769622.jpg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c5015769612.jpg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c501576965.jpg" />
+    <None Include="Resources\77449b7b63cf3dd114e7b1994d1c63de1433612.jpg" />
+    <None Include="Resources\77449b7b63cf3dd114e7b1994d1c63de143363.jpg" />
+    <None Include="Resources\74cb35c8c3f20f33ce76573c82bde9e644461312.jpg" />
+    <None Include="Resources\74cb35c8c3f20f33ce76573c82bde9e64446133.jpg" />
+    <None Include="Resources\6d2bafb52d82a419d67c7280f818c70513107212.jpg" />
+    <None Include="Resources\6d2bafb52d82a419d67c7280f818c7051310723.jpg" />
+    <None Include="Resources\64dcd89f1f1181264fb69004a9cde0e93891212.jpg" />
+    <None Include="Resources\64dcd89f1f1181264fb69004a9cde0e9389123.jpg" />
+    <None Include="Resources\62c065e24df853f0a9a220cef671a4c92071362.jpg" />
+    <None Include="Resources\5758785daba6186ea12ee090d7d416692243242.jpg" />
+    <None Include="Resources\433c0678da345dd9183d3cfe3bad4f872170882.jpg" />
+    <None Include="Resources\42469d54214fe0e3351707755d5b3b71348162.jpg" />
+    <None Include="Resources\40473479debe847a2787ff14f85ae2bb286722.jpg" />
+    <None Include="Resources\3f795061e055a631afac2d201ce00bb7327682.jpg" />
+    <None Include="Resources\35ba8611ba9df97b861d93c1f457c8104618712.jpg" />
+    <None Include="Resources\30d1961e1532d4f14b32c5aad1418aa85532782.jpg" />
+    <None Include="Resources\2d8f79cf871577f1ea472a577a366bd83117352.jpg" />
+    <None Include="Resources\2ca981f6d6232a57de6de6ccc6c40f18526912.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e43585932.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e43585922.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e43585912.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e4358595.jpg" />
+    <None Include="Resources\253af7c4de437ef186c48e1d7cb933a938916712.jpg" />
+    <None Include="Resources\253af7c4de437ef186c48e1d7cb933a93891673.jpg" />
+    <None Include="Resources\20786620f4eb89e97279b1a3c630282d4260422.jpg" />
+    <None Include="Resources\1bb4c241db4a431233a43f0d53fadb1d389122.jpg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb96098829422.jpg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb96098829412.jpg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb9609882945.jpg" />
+    <None Include="Resources\0d03644d76c3f510365be7a52a3a5656491523.jpg" />
+    <None Include="Resources\0c788856d5f255b1d36b03cf390223f9450562.jpg" />
+    <None Include="Resources\0ac0be73419b1ba954a740b24c4469811447312.jpeg" />
+    <None Include="Resources\0ac0be73419b1ba954a740b24c446981144733.jpeg" />
+    <None Include="Resources\0a860fbacc8957c948a64f89e5f300941145112.jpeg" />
+    <None Include="Resources\0a860fbacc8957c948a64f89e5f30094114513.jpeg" />
+    <None Include="Resources\03d38b4a4a7afda48f9c65da0f0834cc327682.jpg" />
+    <None Include="Resources\0335181e69680d9d34ad6df1bba31bad2673563.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf1534096013.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf153409604.jpg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d41508343.jpeg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb96098829431.jpg" />
+    <None Include="Resources\0d03644d76c3f510365be7a52a3a56564915211.jpg" />
+    <None Include="Resources\0335181e69680d9d34ad6df1bba31bad26735611.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf1534096021.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf15340960111.jpg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d41508351.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d415083411.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d415083311.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d415083211.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d415083111.jpeg" />
+    <None Include="Resources\fb1e49e49252ecb5c8bf86a310e99b9f225281.jpg" />
+    <None Include="Resources\ef8b4937fb51ed0a114ec2356d592bdb245761.jpg" />
+    <None Include="Resources\e892fadcf4d504509f058398c70806f32906371.jpg" />
+    <None Include="Resources\e8761011c85c4f662c6cf53168e596f8327681.jpg" />
+    <None Include="Resources\Close-white1.png" />
+    <None Include="Resources\c199fdf5e2e381ede4257e2e0f6947e712737921.jpg" />
+    <None Include="Resources\c199fdf5e2e381ede4257e2e0f6947e712737911.jpg" />
+    <None Include="Resources\c199fdf5e2e381ede4257e2e0f6947e71273793.jpg" />
+    <None Include="Resources\banner11.jpg" />
+    <None Include="Resources\a539c0968a9094cbd52ca8c7b17c143b430081.jpg" />
+    <None Include="Resources\a050b6465b7d528d3f5ee1a303ebb7a688171.jpeg" />
+    <None Include="Resources\97f79ac975cc1bd800ed40557e38617c491521.jpg" />
+    <None Include="Resources\9031b2fc9cc9d61864d3d8a94e8ff00e23736011.jpg" />
+    <None Include="Resources\9031b2fc9cc9d61864d3d8a94e8ff00e2373602.jpg" />
+    <None Include="Resources\900ef343c38ad5d5e3fd4c4f669b1fef46325321.jpg" />
+    <None Include="Resources\900ef343c38ad5d5e3fd4c4f669b1fef46325311.jpg" />
+    <None Include="Resources\900ef343c38ad5d5e3fd4c4f669b1fef4632533.jpg" />
+    <None Include="Resources\8e46f464c94f21f83d2a6ed0f73494543156001.jpg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c5015769631.jpg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c5015769621.jpg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c5015769611.jpg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c501576964.jpg" />
+    <None Include="Resources\77449b7b63cf3dd114e7b1994d1c63de1433611.jpg" />
+    <None Include="Resources\77449b7b63cf3dd114e7b1994d1c63de143362.jpg" />
+    <None Include="Resources\74cb35c8c3f20f33ce76573c82bde9e644461311.jpg" />
+    <None Include="Resources\74cb35c8c3f20f33ce76573c82bde9e64446132.jpg" />
+    <None Include="Resources\6d2bafb52d82a419d67c7280f818c70513107211.jpg" />
+    <None Include="Resources\6d2bafb52d82a419d67c7280f818c7051310722.jpg" />
+    <None Include="Resources\64dcd89f1f1181264fb69004a9cde0e93891211.jpg" />
+    <None Include="Resources\64dcd89f1f1181264fb69004a9cde0e9389122.jpg" />
+    <None Include="Resources\62c065e24df853f0a9a220cef671a4c92071361.jpg" />
+    <None Include="Resources\5758785daba6186ea12ee090d7d416692243241.jpg" />
+    <None Include="Resources\433c0678da345dd9183d3cfe3bad4f872170881.jpg" />
+    <None Include="Resources\42469d54214fe0e3351707755d5b3b71348161.jpg" />
+    <None Include="Resources\40473479debe847a2787ff14f85ae2bb286721.jpg" />
+    <None Include="Resources\3f795061e055a631afac2d201ce00bb7327681.jpg" />
+    <None Include="Resources\35ba8611ba9df97b861d93c1f457c8104618711.jpg" />
+    <None Include="Resources\30d1961e1532d4f14b32c5aad1418aa85532781.jpg" />
+    <None Include="Resources\2d8f79cf871577f1ea472a577a366bd83117351.jpg" />
+    <None Include="Resources\2ca981f6d6232a57de6de6ccc6c40f18526911.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e43585931.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e43585921.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e43585911.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e4358594.jpg" />
+    <None Include="Resources\253af7c4de437ef186c48e1d7cb933a938916711.jpg" />
+    <None Include="Resources\253af7c4de437ef186c48e1d7cb933a93891672.jpg" />
+    <None Include="Resources\20786620f4eb89e97279b1a3c630282d4260421.jpg" />
+    <None Include="Resources\1bb4c241db4a431233a43f0d53fadb1d389121.jpg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb96098829421.jpg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb96098829411.jpg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb9609882944.jpg" />
+    <None Include="Resources\0d03644d76c3f510365be7a52a3a5656491522.jpg" />
+    <None Include="Resources\0c788856d5f255b1d36b03cf390223f9450561.jpg" />
+    <None Include="Resources\0ac0be73419b1ba954a740b24c4469811447311.jpeg" />
+    <None Include="Resources\0ac0be73419b1ba954a740b24c446981144732.jpeg" />
+    <None Include="Resources\0a860fbacc8957c948a64f89e5f300941145111.jpeg" />
+    <None Include="Resources\0a860fbacc8957c948a64f89e5f30094114512.jpeg" />
+    <None Include="Resources\03d38b4a4a7afda48f9c65da0f0834cc327681.jpg" />
+    <None Include="Resources\0335181e69680d9d34ad6df1bba31bad2673562.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf1534096012.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf153409603.jpg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d41508342.jpeg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb9609882943.jpg" />
+    <None Include="Resources\0d03644d76c3f510365be7a52a3a5656491521.jpg" />
+    <None Include="Resources\0335181e69680d9d34ad6df1bba31bad2673561.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf1534096011.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf153409602.jpg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d41508341.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d41508331.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d41508321.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d41508311.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d4150835.jpeg" />
+    <None Include="Resources\20151012114914965.jpg" />
+    <None Include="Resources\icon_sort2.png" />
+    <None Include="Resources\6d2bafb52d82a419d67c7280f818c705131072.jpg" />
+    <None Include="Resources\icons_559f3531_1.png" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c501576961.jpg" />
+    <None Include="Resources\77449b7b63cf3dd114e7b1994d1c63de14336.jpg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d415083.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d4150831.jpeg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d4150832.jpeg" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c501576962.jpg" />
+    <None Include="Resources\8e46f464c94f21f83d2a6ed0f7349454315600.jpg" />
+    <None Include="Resources\77449b7b63cf3dd114e7b1994d1c63de143361.jpg" />
+    <None Include="Resources\6d2bafb52d82a419d67c7280f818c7051310721.jpg" />
+    <None Include="Resources\0ac0be73419b1ba954a740b24c44698114473.jpeg" />
+    <None Include="Resources\62c065e24df853f0a9a220cef671a4c9207136.jpg" />
+    <None Include="Resources\900ef343c38ad5d5e3fd4c4f669b1fef463253.jpg" />
+    <None Include="Resources\a86fe2d9833281aaf18eee823d3017bc10112.jpeg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb960988294.jpg" />
+    <None Include="Resources\9031b2fc9cc9d61864d3d8a94e8ff00e237360.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf15340960.jpg" />
+    <None Include="Resources\0a860fbacc8957c948a64f89e5f3009411451.jpeg" />
+    <None Include="Resources\900ef343c38ad5d5e3fd4c4f669b1fef4632531.jpg" />
+    <None Include="Resources\74cb35c8c3f20f33ce76573c82bde9e6444613.jpg" />
+    <None Include="Resources\5758785daba6186ea12ee090d7d41669224324.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e435859.jpg" />
+    <None Include="Resources\1bb4c241db4a431233a43f0d53fadb1d38912.jpg" />
+    <None Include="Resources\20786620f4eb89e97279b1a3c630282d426042.jpg" />
+    <None Include="Resources\c199fdf5e2e381ede4257e2e0f6947e7127379.jpg" />
+    <None Include="Resources\30d1961e1532d4f14b32c5aad1418aa8553278.jpg" />
+    <None Include="Resources\027a8f9a69f026feefaada5832bdf153409601.jpg" />
+    <None Include="Resources\a539c0968a9094cbd52ca8c7b17c143b43008.jpg" />
+    <None Include="Resources\e8761011c85c4f662c6cf53168e596f832768.jpg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d4150833.jpeg" />
+    <None Include="Resources\fb1e49e49252ecb5c8bf86a310e99b9f22528.jpg" />
+    <None Include="Resources\3f795061e055a631afac2d201ce00bb732768.jpg" />
+    <None Include="Resources\0d03644d76c3f510365be7a52a3a565649152.jpg" />
+    <None Include="Resources\31292f1c73b48178900a3b1b852477f8100900.jpg" />
+    <None Include="Resources\0335181e69680d9d34ad6df1bba31bad267356.jpg" />
+    <None Include="Resources\0ac0be73419b1ba954a740b24c446981144731.jpeg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb9609882941.jpg" />
+    <None Include="Resources\13964fb1b6c75bbe01d8980889eb9609882942.jpg" />
+    <None Include="Resources\9031b2fc9cc9d61864d3d8a94e8ff00e2373601.jpg" />
+    <None Include="Resources\0a860fbacc8957c948a64f89e5f30094114511.jpeg" />
+    <None Include="Resources\ef8b4937fb51ed0a114ec2356d592bdb24576.jpg" />
+    <None Include="Resources\a050b6465b7d528d3f5ee1a303ebb7a68817.jpeg" />
+    <None Include="Resources\42469d54214fe0e3351707755d5b3b7134816.jpg" />
+    <None Include="Resources\40473479debe847a2787ff14f85ae2bb28672.jpg" />
+    <None Include="Resources\e892fadcf4d504509f058398c70806f3290637.jpg" />
+    <None Include="Resources\03d38b4a4a7afda48f9c65da0f0834cc32768.jpg" />
+    <None Include="Resources\2ca981f6d6232a57de6de6ccc6c40f1852691.jpg" />
+    <None Include="Resources\253af7c4de437ef186c48e1d7cb933a9389167.jpg" />
+    <None Include="Resources\353a49c77bda6bba6b1c808614231f7620480.jpg" />
+    <None Include="Resources\64dcd89f1f1181264fb69004a9cde0e938912.jpg" />
+    <None Include="Resources\97f79ac975cc1bd800ed40557e38617c49152.jpg" />
+    <None Include="Resources\35ba8611ba9df97b861d93c1f457c810461871.jpg" />
+    <None Include="Resources\1cf535635a711af5a4f5e3d93a65257f10240.jpg" />
+    <None Include="Resources\386503d1bd85842a863ce426fe62b94f112640.jpg" />
+    <None Include="Resources\0c788856d5f255b1d36b03cf390223f945056.jpg" />
+    <None Include="Resources\433c0678da345dd9183d3cfe3bad4f87217088.jpg" />
+    <None Include="Resources\900ef343c38ad5d5e3fd4c4f669b1fef4632532.jpg" />
+    <None Include="Resources\无标题77777.png" />
+    <None Include="Resources\无标题7777.jpg" />
+    <None Include="Resources\64dcd89f1f1181264fb69004a9cde0e9389121.jpg" />
+    <None Include="Resources\无标题77.png" />
+    <None Include="Resources\2d8f79cf871577f1ea472a577a366bd8311735.jpg" />
+    <None Include="Resources\加.png" />
+    <None Include="Resources\加1.png" />
+    <None Include="Resources\8ad85c30e0e574365dea266cba017c501576963.jpg" />
+    <None Include="Resources\74cb35c8c3f20f33ce76573c82bde9e64446131.jpg" />
+    <None Include="Resources\c199fdf5e2e381ede4257e2e0f6947e71273791.jpg" />
+    <None Include="Resources\无标题77771.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e4358591.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e4358592.jpg" />
+    <None Include="Resources\29fe8eaea3e082354c746e09152bb98e4358593.jpg" />
+    <None Include="Resources\c199fdf5e2e381ede4257e2e0f6947e71273792.jpg" />
+    <None Include="Resources\253af7c4de437ef186c48e1d7cb933a93891671.jpg" />
+    <None Include="Resources\0016f9e2ec997b0ff9f744ec0b9142d4150834.jpeg" />
+    <None Include="Resources\cart-icon2.png" />
+    <Content Include="favicon_mini.ico" />
+    <None Include="Resources\banner1.jpg" />
+    <None Include="Resources\winfo-icon-关闭.png" />
+    <None Include="Resources\winfo-icon-最小化.png" />
+    <None Include="Resources\StoreBar.png" />
+    <None Include="Resources\Close-white.png" />
+    <None Include="Resources\Close-Red.png" />
+    <None Include="Resources\min-white.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\取消.png" />
+    <None Include="Resources\保存.png" />
+    <None Include="Resources\无标题7.png" />
+    <None Include="Resources\无标题9.png" />
+    <None Include="Resources\无标题8.png" />
+    <None Include="Resources\无标题55995555.jpg" />
+    <None Include="Resources\无标题444.jpg" />
+    <None Include="Resources\无标题36.jpg" />
+    <None Include="Resources\无标题33.jpg" />
+    <None Include="Resources\无标题88424288.jpg" />
+    <None Include="Resources\无标题1221.jpg" />
+    <None Include="Resources\无标题9848.jpg" />
+    <None Include="Resources\无标题988.jpg" />
+    <None Include="Resources\无标题99999999.png" />
+    <None Include="Resources\无标题7.jpg" />
+    <None Include="Resources\无标题77.jpg" />
+    <None Include="Resources\无标题66.jpg" />
+    <None Include="Resources\无标题9999999999999977575.png" />
+    <None Include="Resources\无标题111111111111.png" />
+    <None Include="Resources\无标题777777777.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
